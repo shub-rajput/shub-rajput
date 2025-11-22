@@ -12,4 +12,4 @@ Senior UI/UX Designer for [WPForms](https://wpforms.com) @ [Awesome Motive](http
 **On the side:** 
 Co-hosting [Cubbon Designs](https://www.instagram.com/cubbondesigns), a design meetup in Bengaluru, India
 
-[Swing Action]([https://chromewebstore.google.com/detail/swing-action-market-alert/phfcchljcipohheefjcjbhooedbjpnfk?authuser=2&hl=en](https://chromewebstore.google.com/detail/phfcchljcipohheefjcjbhooedbjpnfk?utm_source=github)) - An app which notifies you for possible market opportiunities  
+[Swing Action](https://chromewebstore.google.com/detail/phfcchljcipohheefjcjbhooedbjpnfk?utm_source=github) - An app which notifies you for possible market opportiunities  
