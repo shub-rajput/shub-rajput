@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**shub-rajput/shub-rajput** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a multidisciplinary designer who likes to solve problems with a little jazz.
 
-Here are some ideas to get you started:
+## What I Do
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've been in the mix for 6+ years making brands, websites, systems, products, and more. All in all...I just like making things.
+
+**Currently:** 
+Senior UI/UX Designer for [WPForms](https://wpforms.com) @ [Awesome Motive](https://awesomemotive.com/)
+
+**On the side:** 
+Co-hosting [Cubbon Designs](https://www.instagram.com/cubbondesigns), a design meetup in Bengaluru, India
+
+[Swing Action]([https://chromewebstore.google.com/detail/swing-action-market-alert/phfcchljcipohheefjcjbhooedbjpnfk?authuser=2&hl=en](https://chromewebstore.google.com/detail/phfcchljcipohheefjcjbhooedbjpnfk?utm_source=github)) - An app which notifies you for possible market opportiunities  
