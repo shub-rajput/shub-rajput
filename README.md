@@ -20,4 +20,6 @@ Co-hosting [Cubbon Designs](https://www.instagram.com/cubbondesigns), a design m
 
 [orgaNice](https://www.figma.com/community/plugin/1480251196652828179/organice-organize-label-everything-into-sections) - A Figma plugin that helps you structure your Figma files by creating clean, consistent section containers for your designs with automatic header labels for each selected item in a single click!
 
+[Pubbles](https://github.com/shub-rajput/pubbles) - a lightweight macOS menubar app which hat adds a little subtitle bubble to your mouse pointer so whoever's watching your screen actually gets what and why you're pointing at something
+
 _More brewing...._
